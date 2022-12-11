@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@300&display=swap');
+
+body{
+    font-family: 'Zilla Slab', serif;
+}
+.first-colunm{
+    background-color: whitesmoke;
+   height: 100vh !important;
+}
+.second-colunm{
+    background-color: #6DD5FA;
+    height: 100vh;
+    overflow: scroll;
+  }
+
+.text1{
+    color:#c31432 !important;
+}
+.text2{
+    color:#302b63 !important;
+}
